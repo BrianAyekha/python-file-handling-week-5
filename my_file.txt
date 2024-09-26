@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line with a number: 42.
+This is the third line with a string: 'hello'.
+This is the fourth line appended.
+This is the fifth line appended with a number: 100.
+This is the sixth line appended with a string: 'world'.
